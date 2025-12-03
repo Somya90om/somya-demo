@@ -97,7 +97,7 @@ Insights Extraction
 📷 Dashboard Preview
 
 <img width="1682" height="902" alt="Screenshot 2025-12-03 103014" src="https://github.com/user-attachments/assets/50f3e623-8e43-4e39-b43a-89f2a786f8c9" />
-yExample:
+Example:
 
 ![Netflix Dashboard](dashboard.png)
 
